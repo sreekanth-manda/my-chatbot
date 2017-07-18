@@ -1,6 +1,6 @@
 """
 This sample demonstrates an implementation of the Lex Code Hook Interface
-in order to serve a sample bot which manages orders for flowers.
+in order to serve a sample bot which manages orders for coffee.
 Bot, Intent, and Slot models which are compatible with this sample can be found in the Lex Console
 as part of the 'OrderCoffee' template.
 
